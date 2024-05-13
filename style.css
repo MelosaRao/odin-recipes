@@ -1,0 +1,23 @@
+body{
+    background: rgb(226,214,235);
+    background: linear-gradient(133deg, rgba(226,214,235,1) 0%, rgba(242,217,217,1) 50%, rgba(235,225,212,1) 100%);
+}
+h1,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: darkorchid;
+}
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: purple
+    text-align: justify;
+
+}
+li,p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: purple;
+    text-align: justify;
+
+}
